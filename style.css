@@ -1,0 +1,15 @@
+.footer {
+    border-top: 1px solid #E5E5E5;
+    color: #777777;
+    padding-top: 19px;
+}
+.form{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.input-large{
+    width: 200px;
+}
+#errmsg{
+    color: #ff0000;
+}
